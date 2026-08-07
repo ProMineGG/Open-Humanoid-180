@@ -1,0 +1,36 @@
+# Системные файлы (скрытые файлы ОС)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Настройки самого VS Code (чтобы не ломать чужие редакторы)
+.vscode/
+*.code-workspace
+
+# Логи и кэш
+*.log
+.eslintcache
+.npm/
+
+# Секретные ключи и переменные окружения (ЕСЛИ ПОЯВЯТСЯ!)
+.env
+.env.local
+*.pem
+*.key
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+
+node_modules/
+dist/
+build/
+
+.pio/
+bin/
+obj/
+*.o
+*.exe
