@@ -1,10 +1,9 @@
 # Open-Humanoid-180
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub release](https://img.shields.io/github/v/release/your-username/Open-Humanoid-180)](https://github.com/your-username/Open-Humanoid-180/releases)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Open-Humanoid-180)](https://github.com/your-username/Open-Humanoid-180/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/Open-Humanoid-180)](https://github.com/your-username/Open-Humanoid-180/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Open-Humanoid-180)](https://github.com/your-username/Open-Humanoid-180/commits)
-
+[![GitHub release](https://img.shields.io/github/v/release/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/releases)
+[![GitHub stars](https://img.shields.io/github/stars/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/commits)
 *Read this in other languages: [Русский](README.md)*
 
 **A 180 cm DIY bipedal humanoid robot — built with off‑the‑shelf parts, custom wave reducers with rolling elements, and a distributed control network.**
