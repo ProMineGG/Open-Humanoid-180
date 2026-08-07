@@ -1,9 +1,11 @@
 # Open-Humanoid-180
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub release](https://img.shields.io/github/v/release/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/releases)
 [![GitHub stars](https://img.shields.io/github/stars/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/commits)
+
+[Roadmap](https://github.com/ProMineGG/Open-Humanoid-180/issues/1)
+
 *Read this in other languages: [Русский](README.md)*
 
 **A 180 cm DIY bipedal humanoid robot — built with off‑the‑shelf parts, custom wave reducers with rolling elements, and a distributed control network.**
@@ -147,6 +149,8 @@ We welcome contributors with experience in:
 - **Low‑level FOC tuning** (especially current limits for low‑inductance BLDCs).
 - **Simulation** (Gazebo / Isaac Sim) for walking gait development.
 - **Mechanical CAD** (FreeCAD, Fusion 360) – we need help turning sketches into production‑ready models.
+
+Detailed contribution guidelines are available in [CONTRIBUTING.en.md](CONTRIBUTING.en.md).
 
 Feel free to open issues or pull requests. For discussions, a Telegram channel will be created soon.
 

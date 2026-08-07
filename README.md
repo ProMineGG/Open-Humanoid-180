@@ -1,9 +1,10 @@
 # Open-Humanoid-180
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub release](https://img.shields.io/github/v/release/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/releases)
 [![GitHub stars](https://img.shields.io/github/stars/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/commits)
+
+[Дорожная карта проекта](https://github.com/ProMineGG/Open-Humanoid-180/issues/1)
 
 *Читать на других языках: [English](README.en.md)*
 
@@ -149,9 +150,11 @@
 - **Симуляции** (Gazebo / Isaac Sim) для разработки походки.
 - **Механическом CAD** (FreeCAD, Fusion 360) – нужна помощь в переводе эскизов в готовые модели.
 
+Подробные инструкции по участию — в [CONTRIBUTING.md](CONTRIBUTING.md).
+
 Заводите Issues и Pull Requests. Для обсуждений скоро создадим Telegram-канал.
 
-**Лицензия:** Все код, CAD и схемы распространяются под **GNU GPLv3**. Коммерческое использование разрешено только при условии, что производный проект остаётся полностью открытым.
+**Лицензия:** Все код, CAD и схемы распространяются под **GNU GPLv3**...
 
 ---
 
