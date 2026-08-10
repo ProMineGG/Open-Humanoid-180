@@ -67,6 +67,28 @@
   – Все суставы используют **двухступенчатую схему**; общие передаточные числа: 1:100 (для мощных), 1:65 (для средних), 1:40 (для базовых).  
   – Тела качения — стандартные стальные ролики от подшипников (дешёвые, износостойкие).  
   – Корпуса отливаются из алюминия или печатаются из PA12‑CF.
+### Процесс производства редукторов (DIY Casting)
+
+Для создания волновых редукторов алюминий предварительно переплавляется в очищенные слитки в самодельной печи.
+
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <table border="0" cellpadding="5" cellspacing="0">
+        <tr><td><img src="assets/aluminum/metal_structure.jpg" width="180" alt="Срез металла 1"/></td></tr>
+        <tr><td><img src="assets/aluminum/metal_structure_above.jpg" width="180" alt="Срез металла 2"/></td></tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table border="0" cellpadding="5" cellspacing="0">
+        <tr><td><img src="assets/aluminum/furnace.jpg" width="320" alt="Ночная печь"/></td></tr>
+        <tr><td><img src="assets/aluminum/crucible.jpg" width="320" alt="Жидкий алюминий в тигле"/></td></tr>
+        <tr><td><img src="assets/aluminum/ingots.jpg" width="320" alt="Готовые слитки 1"/></td></tr>
+        <tr><td><img src="assets/aluminum/ingots_2.jpg" width="320" alt="Готовые слитки 2"/></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 

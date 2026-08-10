@@ -67,6 +67,28 @@ The mechanical design is modular:
   – All joints use a **two‑stage design**; overall ratios: 1:100 (high‑torque), 1:65 (medium), 1:40 (base).  
   – Rolling elements are standard steel bearing rollers (cheap, wear‑resistant).  
   – Housings are cast in aluminium or printed in PA12‑CF.
+### Wave Reducer Production (DIY Casting)
+
+To manufacture custom two-stage wave reducers, raw aluminum scrap is pre-melted into purified ingots using a homemade coal forge furnace.
+
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <table border="0" cellpadding="5" cellspacing="0">
+        <tr><td><img src="assets/aluminum/metal_structure.jpg" width="180" alt="Metal crystalline structure 1"/></td></tr>
+        <tr><td><img src="assets/aluminum/metal_structure_above.jpg" width="180" alt="Metal crystalline structure 2"/></td></tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table border="0" cellpadding="5" cellspacing="0">
+        <tr><td><img src="assets/aluminum/furnace.jpg" width="320" alt="Homemade foundry furnace at night"/></td></tr>
+        <tr><td><img src="assets/aluminum/crucible.jpg" width="320" alt="Molten aluminum inside the crucible"/></td></tr>
+        <tr><td><img src="assets/aluminum/ingots.jpg" width="320" alt="Purified aluminum ingots 1"/></td></tr>
+        <tr><td><img src="assets/aluminum/ingots_2.jpg" width="320" alt="Purified aluminum ingots 2"/></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
