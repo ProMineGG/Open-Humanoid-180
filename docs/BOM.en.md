@@ -34,7 +34,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 | Magnetometer QMC5883L | 11 | 167 | 1,837 | [Ozon](https://www.ozon.ru/product/gy-271-qmc5883l-3v-5v-trehosnyy-kompas-magnitnogo-polya-s-tremya-osyami-modul-datchika-magnitometra-2070498807/) |
 | Pressure sensor FSR402 | 10 | 177.3 | 1,773 | [AliExpress](https://aliexpress.ru/item/4001062799587.html) |
 | Load cell 100kg XNQJALYCY | 4 | 222.25 | 889 | [AliExpress](https://aliexpress.ru/item/1005006769729312.html) (lot of 4) |
-| ADC HX711 | 4 | 41 (lot of 10: 410) | 164 (410 for lot) | [AliExpress](https://aliexpress.ru/item/1005009105560158.html) (lot of 10) |
+| ADC HX711 | 4 | 41 (lot of 10: 410) | 410 | [AliExpress](https://aliexpress.ru/item/1005009105560158.html) (lot of 10) |
 | Dual HD USB Camera (OV4689) | 1 | 6,389 | 6,389 | [AliExpress](https://aliexpress.ru/item/1005010126423504.html) |
 
 ---
@@ -43,11 +43,11 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Laptop RTX 2070 8GB / 16GB (used) | 1 | 42,500 | 42,500 | [Avito](https://www.avito.ru/nizhniy_novgorod/noutbuki/igrovoy_noutbuk_dell_g5_8176393321) |
+| Laptop Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB (used) | 1 | 86,000 | 86,000 | [Avito](https://www.avito.ru/moskva/noutbuki/noutbuk_lenovo_l7_r9_rtx_3080_32gb_1tb_8203230225) |
 | ESP32‑S3 N16R8 | 1 | 410 | 410 | [AliExpress](https://aliexpress.ru/item/1005009303526431.html) |
 | GPIO expansion board for ESP32‑S3 | 1 | 352 | 352 | [AliExpress](https://aliexpress.ru/item/1005009799215827.html) |
-| GD32F303 WeAct | 7 | 319 | 2,233 | [AliExpress](https://aliexpress.ru/item/1005001986456057.html) |
-| CAN transceiver TJA1050 | 10 | 43.7 | 437 | [Ozon](https://www.ozon.ru/product/10sht-interfeysnaya-plata-drayvera-kontrollera-tja1050-pozvolyaet-ekonomit-prostranstvo-i-2903281091/) (lot of 10) |
+| AT32F403ACGU7 | 7 | 340 | 2,380 | [AliExpress](https://aliexpress.ru/item/1005004842376803.html) |
+| CAN transceiver TJA1042T | 10 | 83.4 | 834 | [AliExpress](https://aliexpress.ru/item/1005009993488276.html) (lot of 5) |
 | Analog multiplexer CD74HC4067 | 1 | 54 | 54 | [AliExpress](https://aliexpress.ru/item/1005005507548696.html) |
 
 ---
@@ -56,7 +56,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| LiFePO₄ 3.2V 50Ah (60145 cell) | 8 | 1,217 | 9,736 | [AliExpress](https://aliexpress.ru/item/1005004218286639.html) (lot of 4) |
+| Li-NMC SK 3.7V 80.5Ah | 7 | 3,000 | 21,000 | [Avito](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/litiy-ionnye_yacheyki_li-nmc_sk_37v_805ah_8259027903) |
 | JK‑B2A8S20P Smart BMS (8S, 200A) | 1 | 3,349 | 3,349 | [AliExpress](https://aliexpress.ru/item/1005011756434924.html) |
 | DC‑DC converter 1500W (28.8→19.5V) | 1 | 1,479 | 1,479 | [AliExpress](https://aliexpress.ru/item/1005009348542795.html) |
 | DC‑DC converter 600W (28.8→5V) | 1 | 470 | 470 | [Ozon](https://www.ozon.ru/product/dc-dc-ponizhayushchiy-preobrazovatel-600-vt-stabilizator-2635865398/) |
@@ -66,15 +66,15 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 ## Cables & Wiring
 
-| Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
+| Component | Qty | Price per meter (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| KGTP‑HL 1×10 mm² | 3 m | 140.09 | 420 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-1h10/) |
+| ПуГВнг-LS 1×25 mm² | 3 m | 296.35 | 889 | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/) |
 | KGTP‑HL 2×4 mm² | 10 m | 121.66 | 1,217 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/) |
 | KGTP‑HL 2×1.5 mm² | 10 m | 49.73 | 497 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h1-5/) |
 | KGTP‑HL 2×0.75 mm² | 5 m | 30.18 | 151 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h0-75/) |
 | KGTP‑HL 3×2.5 mm² | 4 m | 109.66 | 439 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h2-5/) |
 | KGTP‑HL 3×1.5 mm² | 10 m | 69.04 | 690 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h1-5/) |
-| KGTP‑HL 3×0.75 mm² | 5 m | 46.11 | 230 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h0-75/) |
+| KGTP‑HL 3×0.75 mm² | 5 m | 46.11 | 231 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h0-75/) |
 | MKEShng(A)‑LS 5×0.35 mm² | 15 m | 60.24 | 904 | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-5h0-35/) |
 | MKEShng(A)‑LS 2×0.35 mm² | 5 m | 34.18 | 171 | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-2h0-35/) |
 | MGSHV 0.35 mm² | 20 m | 7.12 | 142 | [Cable‑ES](https://cable-es.ru/catalog/mgshv/mgshv-0-35/) |
@@ -85,7 +85,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Distribution block 160A (8 terminals) | 2 | 394 | 788 | [Ozon](https://www.ozon.ru/product/raspredelitelnyy-blok-na-din-reyku-160a-svetlo-seryy-3245365621/) |
+| Distribution block 250A (12 terminals) | 2 | 788 | 1,576 | [Ozon](https://www.ozon.ru/product/blok-raspredelitelnyy-kbr-rbd-250-250a-12-prisoedineniy-dekron-4045680559/) |
 | WAGO 221‑415 (5‑terminal) | 6 | 44 | 264 | [Ozon](https://www.ozon.ru/product/klemma-wago-221-415-5-provodnaya-dlya-soedineniya-provodov-10-sht-2008848825/) |
 | WAGO 221‑413 (3‑terminal) | 2 | 39 | 78 | [Ozon](https://www.ozon.ru/product/klemma-wago-221-413-3-h-provodnaya-dlya-soedineniya-provodov-vago-10-sht-2008848822/) |
 | QS8P‑S (Anti‑Spark) | 1 pair | 682 | 682 | [Ozon](https://www.ozon.ru/product/razem-dlya-modifikatsii-akkumulyatora-elektromobilya-qs8p-l-vysokotochnyy-razem-dlya-zashchity-3302358304/) |
@@ -107,6 +107,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 | ATO fuse 40A | 7 | 1.2 (lot of 30) | 36 (lot) | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-40a-4633025301/) |
 | ATO fuse 25A | 2 | 2.63 (lot of 30) | 79 (lot) | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-25a-4633034058/) |
 | ATO fuse 10A | 1 | 1.96 (lot of 30) | 59 (lot) | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-10a-4633021334/) |
+| Single holder + 80A fuse (for ODrive) | 3 | 163 | 489 | [AliExpress](https://aliexpress.ru/item/1005005850402237.html) |
 
 ---
 
@@ -181,20 +182,20 @@ Logic & Peripherals:
 1. CD74HC4067 - 1 pc
 2. HX711 - 4 pcs
 3. GPIO expansion board for ESP32 - 1 pc
-4. TJA1050 - 10 pcs
+4. TJA1042T - 10 pcs
 
 Lower‑level MCUs:
-1. GD32F303 - 7 pcs
+1. AT32F403ACGU7 - 7 pcs
 2. ESP32‑S3 N16R8 - 1 pc
 
 High‑level compute:
-1. Laptop RTX 2070 8GB / 16GB - 1 pc
+1. Laptop Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB - 1 pc
 
 Visual:
 1. Flexible LED P1.53 320×160mm - 1 pc
 
 Battery:
-1. Liitokala LiFePO4 50Ah - 8 pcs
+1. Li-NMC SK 3.7V 80.5Ah - 7 pcs
 2. JK‑B2A8S20P BMS - 1 pc
 
 Buck converters:
@@ -203,7 +204,7 @@ Buck converters:
 3. 300W - 1 pc
 
 Cables:
-1. KGTP‑HL 1×10 - 3 m
+1. ПуГВнг-LS 1×25 - 3 m
 2. KGTP‑HL 2×4 - 10 m
 3. KGTP‑HL 2×1.5 - 10 m
 4. KGTP‑HL 2×0.75 - 5 m
@@ -221,7 +222,7 @@ Capacitors & filtering:
 4. Resistor kit - 1 set
 
 Connectors & distribution:
-1. Distribution block 160A - 2 pcs
+1. Distribution block 250A - 2 pcs
 2. WAGO 5‑terminal - 6 pcs
 3. WAGO 3‑terminal - 2 pcs
 4. QS8P‑S - 1 pair
@@ -234,9 +235,10 @@ Connectors & distribution:
 Fuses:
 1. DC breaker 200A - 1 pc
 2. ATO fuse holder (10‑slot) - 1 pc
-3. ATO 40A - 7 pcs
-4. ATO 25A - 2 pcs
-5. ATO 10A - 1 pc
+3. ATO 40A - 7 pcs (lot of 30)
+4. ATO 25A - 2 pcs (lot of 30)
+5. ATO 10A - 1 pc (lot of 30)
+6. Single holder + 80A fuse (for ODrive) - 3 pcs
 
 Fasteners & hardware:
 1. TML 10‑6 lugs - 8 pcs
@@ -260,18 +262,18 @@ Materials:
 
 | Category | Total (RUB) |
 | :--- | :---: |
-| **Motors** | 78,513 |
-| **Drivers** | 27,683 |
-| **Sensors** | 22,669 |
-| **Compute & Logic** | 45,986 |
-| **Battery & Power Regulation** | 15,407 |
-| **Cables** | 4,861 |
-| **Connectors & Distribution** | 4,090 |
-| **Fuses** | 3,073 |
+| **Motors** | 78 513 |
+| **Drivers** | 27 683 |
+| **Sensors** | 22 915 |
+| **Compute & Logic** | 90 030 |
+| **Battery & Power Regulation** | 26 671 |
+| **Cables** | 5 331 |
+| **Connectors & Distribution** | 4 878 |
+| **Fuses** | 3 562 |
 | **Capacitors & Filtering** | 961 |
-| **Display** | 5,327 |
-| **Filaments & Materials** | 24,338 |
+| **Display** | 5 327 |
+| **Filaments & Materials** | 24 338 |
 | **Fasteners & Hardware** | 980 |
-| **TOTAL** | **~233,888 RUB** |
+| **TOTAL** | **~291 189 RUB** |
 
 *Prices are approximate and may vary depending on exchange rates and seller availability.*
