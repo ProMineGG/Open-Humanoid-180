@@ -28,19 +28,19 @@ Mechanical parts are designed for **backyard aluminium casting** (coal‑fired f
 
 ## Key Specifications
 
-| Parameter              | Value                                                         |
-| :--------------------- | :------------------------------------------------------------ |
-| Height / Target Weight | 180 cm / ~55 kg                                               |
-| Degrees of Freedom     | 36 (6 High‑torque, 17 Medium, 13 Base)                        |
-| Battery                | 7S Li‑NMC (SK 3.7V 80.5Ah) + JK Smart BMS (200A peak)         |
-| Main Power Bus         | 25.9–29.4 V (nominal 25.9 V, max 29.4 V)                      |
-| Secondary Rails        | 19.5 V (laptop), 5 V (logic & display), 6 V / 12 V (future)   |
+| Parameter              | Value                                                                     |
+| :--------------------- | :------------------------------------------------------------------------ |
+| Height / Target Weight | 180 cm / ~55 kg                                                           |
+| Degrees of Freedom     | 36 (6 High‑torque, 17 Medium, 13 Base)                                    |
+| Battery                | 7S Li‑NMC (SK 3.7V 80.5Ah) + JK Smart BMS (200A)                          |
+| Main Power Bus         | 25.9–29.4 V (nominal 25.9 V, max 29.4 V)                                  |
+| Secondary Rails        | 19.5 V (laptop), 5 V (logic & display), 6 V / 12 V (future)               |
 | Compute                | Laptop Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB (Ubuntu 22.04 + RT‑Preempt) |
-| Real‑time Node         | ESP32‑S3 (CAN gateway, IMU fusion, I/O expansion)             |
-| Motor Controllers      | ODrive3.6 (x3), Hoverboard ESCs (x9), SimpleFOCMini (x13)     |
-| Communication          | CAN (TJA1042T) + SPI (encoders) + UART (ESC bridge)           |
-| Sensors                | 11× BMI160+QMC5883L, 10× FSR402, 4× XNQJALYCY 100kg load cells |
-| License                | **GNU GPLv3** (code, CAD, schematics)                         |
+| Real‑time Node         | ESP32‑S3 (CAN gateway, IMU fusion, I/O expansion)                         |
+| Motor Controllers      | ODrive3.6 (x3), Hoverboard ESCs (x9), SimpleFOCMini (x13)                 |
+| Communication          | CAN (TJA1042T) + SPI (encoders) + UART (ESC bridge)                       |
+| Sensors                | 11× BMI160+QMC5883L, 10× FSR402, 4× XNQJALYCY 100kg load cells            |
+| License                | **GNU GPLv3** (code, CAD, schematics)                                     |
 
 ---
 
@@ -52,13 +52,13 @@ The mechanical design is modular:
   – 6× 6384 120KV (1:100) – knees and hip sagittal axes  
   – 2× 5065 140KV (1:65) – hip rotation
 
-- **Torso & Neck (6 actuators):**  
-  – 3× 5065 140KV (1:65) – torso bending / rotation  
+- **Torso & Neck (4 actuators):**  
+  – 1× 5065 140KV (1:65) – torso bending  
   – 3× 3205 110KV (1:40) – neck (2 bending + 1 rotation)
 
-- **Arms (22 actuators):**  
+- **Arms (24 actuators):**  
   – 6× 5065 (shoulders: 2 bending + 1 rotation per side)  
-  – 2× 5065 (elbows)  
+  – 4× 5065 (elbows: 2 per arm — flexion + forearm rotation)
   – 4× 5065 (wrists – 2 per arm, placed in forearms with Bowden cables)  
   – 10× 3205 110KV (fingers – 5 per hand, 1:40)
 
@@ -116,7 +116,7 @@ All DC‑DC converters (1500W, 600W, 300W) are **over‑specified** and run **pa
 - [x] Preliminary power distribution and wiring scheme.
 - [x] Aluminium casting test – successful (melting scrap in coal forge with salt degassing).
 - [ ] 3D printer (Ender 3 V3 Plus) and materials ready.
-- [ ] CAD models for all joint reducers (in progress – hand sketches available in `/assets`).
+- [ ] CAD models for all joint reducers (in progress).
 - [ ] First single‑joint prototype (active CAD development, tolerance analysis, and supplier sourcing; procurement will start after 3D modelling is complete).
 - [ ] Firmware for ESP32 and AT32F403ACGU7 (will be published once tested).
 - [ ] URDF model for Gazebo simulation.
@@ -128,6 +128,7 @@ All DC‑DC converters (1500W, 600W, 300W) are **over‑specified** and run **pa
 * [`docs/BOM.en.md`](docs/BOM.en.md) – Full Bill of Materials with current prices, quantities, and direct links to Ozon / AliExpress / Avito.
 * [`docs/power_schematic.en.md`](docs/power_schematic.en.md) – Power distribution diagram, fuse allocation (200A breaker, ATO hub, separate 80A for ODrive), and WAGO terminal block wiring.
 * [`docs/weight_budget.en.md`](docs/weight_budget.en.md) – Mass breakdown per joint, total CoM estimation, and structural material selection (aluminium / PETG / PA12‑CF).
+* [`docs/kinematics.en.md`](./docs/kinematics.en.md) – Kinematic scheme (joint DOF distribution, motor types).
 
 * [`docs/in progress/motor_selection.en.md`](docs/in%20progress/motor_selection.en.md) – Actuator calculations: KV selection, torque estimates per joint, and reduction ratio justification *(work in progress)*.
 * [`docs/in progress/reducer_design.en.md`](docs/in%20progress/reducer_design.en.md) – Engineering details for the two-stage wave reducer with rolling elements (ПТК): cam profiles, roller sizing, bearing selection, and assembly tolerances *(work in progress)*.
