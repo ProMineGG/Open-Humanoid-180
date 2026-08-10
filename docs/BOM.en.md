@@ -1,7 +1,7 @@
 # Bill of Materials (BOM) — Open-Humanoid-180
 
 This document lists all required components with current prices, quantities, and direct purchase links.  
-All prices are in Russian Rubles (RUB) as of March 2026, including delivery costs (calculated for purchasing the exact required quantity in one lot where applicable).
+All prices are in Russian Rubles (RUB) as of July–August 2026, including delivery costs (calculated for purchasing the exact required quantity in one lot where applicable).
 
 ---
 
@@ -9,9 +9,9 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| BLDC 6384 120KV | 6 | 4,271 | 25,626 | [Ozon](https://www.ozon.ru/product/elektricheskiy-balansirovochnyy-samokat-skeytbord-6384-120kv-bez-datchika-3607953100/) |
-| BLDC 5065 140KV | 17 | 2,838 | 48,246 | [Ozon](https://www.ozon.ru/product/diy-n5065-140kv-bldc-besshchetochnyy-dvigatel-dlya-elektroskutera-bezdatchikovyy-1986965132/) |
-| BLDC 3205 110KV | 13 | 357 | 4,641 | [AliExpress](https://aliexpress.ru/item/1005010807047447.html) (lot of 3) |
+| BLDC 6384 120KV | 6 | 4,000 | 24 000 | [Ozon](https://www.ozon.ru/product/elektricheskiy-balansirovochnyy-samokat-skeytbord-6384-120kv-bez-datchika-3607953100/) |
+| BLDC 5065 140KV | 17 | 2,700 | 45 900 | [Ozon](https://www.ozon.ru/product/diy-n5065-140kv-bldc-besshchetochnyy-dvigatel-dlya-elektroskutera-bezdatchikovyy-1986965132/) |
+| BLDC 3205 110KV | 13 | 360 | 4 680 | [AliExpress](https://aliexpress.ru/item/1005010807047447.html) |
 
 ---
 
@@ -19,9 +19,9 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| ODrive3.6 (clone) | 3 | 3,869 | 11,607 | [Ozon](https://www.ozon.ru/product/mks-xdrive-3-6-56-v-foc-bldc-plata-kontrollera-servodvigatelya-4459556419/) |
-| Hoverboard mainboard (2-channel) | 9 | 1,500 | 13,500 | [Avito](https://www.avito.ru/ekaterinburg/sport_i_otdyh/platy_upravleniya_giroskutera_42v_8164713218) (used) |
-| SimpleFOCMini (MS8313) | 13 | 182 (252 single) | 2,576 | [AliExpress](https://aliexpress.ru/item/1005008486050546.html) (lot of 10) |
+| ODrive3.6 (clone) | 3 | 3,400 | 10 200 | [Ozon](https://www.ozon.ru/product/foc-bldc-dual-motor-controller-xdrive-xdrive3-6-apgreyd-kit-56v-dlya-servo-vysokotochnyy-na-5046874017/?sh=3ZH9LtEthA) |
+| Hoverboard mainboard (2-channel) | 9 | 1,500 | 13 500 | [Avito](https://www.avito.ru/ekaterinburg/sport_i_otdyh/platy_upravleniya_giroskutera_42v_8164713218) (used) |
+| SimpleFOCMini (MS8313) | 13 | 185 (255 single) | 2 615 | [AliExpress](https://aliexpress.ru/item/1005008486050546.html) (lot of 10 + 1 single) |
 
 ---
 
@@ -29,13 +29,13 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Magnetic encoder MT6826S | 36 | 280 | 10,080 | [AliExpress](https://aliexpress.ru/item/1005009483619436.html) (lot of 3) |
-| 9‑axis IMU BMI160 | 11 | 88.9 (107 single) | 996 | [Ozon](https://www.ozon.ru/product/10-komplektov-bmi160-gy-bmi160-6dof-6-osevoy-modul-datchika-akselerometra-1726319765/) (lot of 10) + [Ozon](https://www.ozon.ru/product/modul-6-osey-giroskop-akselerometr-16-bit-2000-s-16g-nizkoe-potreblenie-vstraivaemyy-3230574508/) (1 pc) |
-| Magnetometer QMC5883L | 11 | 167 | 1,837 | [Ozon](https://www.ozon.ru/product/gy-271-qmc5883l-3v-5v-trehosnyy-kompas-magnitnogo-polya-s-tremya-osyami-modul-datchika-magnitometra-2070498807/) |
-| Pressure sensor FSR402 | 10 | 177.3 | 1,773 | [AliExpress](https://aliexpress.ru/item/4001062799587.html) |
-| Load cell 100kg XNQJALYCY | 4 | 222.25 | 889 | [AliExpress](https://aliexpress.ru/item/1005006769729312.html) (lot of 4) |
-| ADC HX711 | 4 | 41 (lot of 10: 410) | 410 | [AliExpress](https://aliexpress.ru/item/1005009105560158.html) (lot of 10) |
-| Dual HD USB Camera (OV4689) | 1 | 6,389 | 6,389 | [AliExpress](https://aliexpress.ru/item/1005010126423504.html) |
+| Magnetic encoder MT6826S | 36 | 280 | 10 080 | [AliExpress](https://aliexpress.ru/item/1005008498235469.html?spm=a2g2w.detail.rcmdprod.0.63435e37w7MYzz&mixer_rcmd_bucket_id=554803d5f8f77e2a&pdp_trigger_item_id=0_1005009483619436&ru_algo_pv_id=b47156-61b690-8124fb-7f5ddb-1786356000&scenario=aerSimilarItemPdpRcmd&shpMethod=CAINIAO_ECONOMY&sku_id=12000048410718740&traffic_source=recommendation&type_rcmd=core) |
+| 9‑axis IMU BMI160 | 11 | 85 (100 single) | 950 | [Ozon](https://www.ozon.ru/product/10-komplektov-bmi160-gy-bmi160-6dof-6-osevoy-modul-datchika-akselerometra-1726319765/) (lot of 10) + [Ozon](https://www.ozon.ru/product/modul-6-osey-giroskop-akselerometr-16-bit-2000-s-16g-nizkoe-potreblenie-vstraivaemyy-3230574508/) (1 pc) |
+| Magnetometer QMC5883L | 11 | 165 | 1 815 | [Ozon](https://www.ozon.ru/product/gy-271-qmc5883l-3v-5v-trehosnyy-kompas-magnitnogo-polya-s-tremya-osyami-modul-datchika-magnitometra-2070498807/) |
+| Pressure sensor FSR402 | 10 | 180 | 1 800 | [AliExpress](https://aliexpress.ru/item/4001062799587.html) |
+| Load cell 100kg XNQJALYCY | 4 | 230 | 920 | [AliExpress](https://aliexpress.ru/item/1005006769729312.html) (lot of 4) |
+| ADC HX711 | 4 | 42 (lot of 10: 420) | 168 | [AliExpress](https://aliexpress.ru/item/1005009105560158.html) (lot of 10) |
+| Dual HD USB Camera (OV4689) | 1 | 6,500 | 6 500 | [AliExpress](https://aliexpress.ru/item/1005010126423504.html) |
 
 ---
 
@@ -43,12 +43,12 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Laptop Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB (used) | 1 | 86,000 | 86,000 | [Avito](https://www.avito.ru/moskva/noutbuki/noutbuk_lenovo_l7_r9_rtx_3080_32gb_1tb_8203230225) |
-| ESP32‑S3 N16R8 | 1 | 410 | 410 | [AliExpress](https://aliexpress.ru/item/1005009303526431.html) |
-| GPIO expansion board for ESP32‑S3 | 1 | 352 | 352 | [AliExpress](https://aliexpress.ru/item/1005009799215827.html) |
-| AT32F403ACGU7 | 7 | 340 | 2,380 | [AliExpress](https://aliexpress.ru/item/1005004842376803.html) |
+| Laptop Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB (used) | 1 | 86,000 | 86 000 | [Avito](https://www.avito.ru/moskva/noutbuki/noutbuk_lenovo_l7_r9_rtx_3080_32gb_1tb_8203230225) |
+| ESP32‑S3 N16R8 | 1 | 410 | 410 | [AliExpress](https://aliexpress.ru/item/1005009303526431.html?sku_id=12000048677992046) |
+| GPIO expansion board for ESP32‑S3 | 1 | 355 | 355 | [AliExpress](https://aliexpress.ru/item/1005009799215827.html) |
+| AT32F403ACGU7 | 7 | 340 | 2 380 | [AliExpress](https://aliexpress.ru/item/1005004842376803.html) |
 | CAN transceiver TJA1042T | 10 | 83.4 | 834 | [AliExpress](https://aliexpress.ru/item/1005009993488276.html) (lot of 5) |
-| Analog multiplexer CD74HC4067 | 1 | 54 | 54 | [AliExpress](https://aliexpress.ru/item/1005005507548696.html) |
+| Analog multiplexer CD74HC4067 | 1 | 50 | 50 | [AliExpress](https://aliexpress.ru/item/1005005507548696.html) |
 
 ---
 
@@ -56,11 +56,11 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Li-NMC SK 3.7V 80.5Ah | 7 | 3,000 | 21,000 | [Avito](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/litiy-ionnye_yacheyki_li-nmc_sk_37v_805ah_8259027903) |
-| JK‑B2A8S20P Smart BMS (8S, 200A) | 1 | 3,349 | 3,349 | [AliExpress](https://aliexpress.ru/item/1005011756434924.html) |
-| DC‑DC converter 1500W (28.8→19.5V) | 1 | 1,479 | 1,479 | [AliExpress](https://aliexpress.ru/item/1005009348542795.html) |
-| DC‑DC converter 600W (28.8→5V) | 1 | 470 | 470 | [Ozon](https://www.ozon.ru/product/dc-dc-ponizhayushchiy-preobrazovatel-600-vt-stabilizator-2635865398/) |
-| DC‑DC converter 300W (28.8→5V) | 1 | 373 | 373 | [AliExpress](https://aliexpress.ru/item/1005008929234790.html) |
+| Li-NMC SK 3.7V 80.5Ah | 7 | 3,000 | 21 000 | [Avito](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/litiy-ionnye_yacheyki_li-nmc_sk_37v_805ah_8259027903) |
+| JK‑B2A8S20P Smart BMS (8S, 200A) | 1 | 3,500 | 3 500 | [AliExpress](https://aliexpress.ru/item/1005011756434924.html) |
+| DC‑DC converter 1500W (28.8→19.5V) | 1 | 1,500 | 1 500 | [AliExpress](https://aliexpress.ru/item/1005009348542795.html) |
+| DC‑DC converter 600W (28.8→5V) | 1 | 500 | 500 | [Ozon](https://www.ozon.ru/product/dc-dc-ponizhayushchiy-preobrazovatel-600-vt-stabilizator-2635865398/) |
+| DC‑DC converter 300W (28.8→5V) | 1 | 400 | 400 | [AliExpress](https://aliexpress.ru/item/1005008929234790.html) |
 
 ---
 
@@ -68,8 +68,8 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Price per meter (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| ПуГВнг-LS 1×25 mm² | 3 m | 296.35 | 889 | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/) |
-| KGTP‑HL 2×4 mm² | 10 m | 121.66 | 1,217 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/) |
+| ПуГВнг-LS 1×25 mm² | 3 m | 296.35 | 889.05 | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/) |
+| KGTP‑HL 2×4 mm² | 10 m | 121.66 | 1 217 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/) |
 | KGTP‑HL 2×1.5 mm² | 10 m | 49.73 | 497 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h1-5/) |
 | KGTP‑HL 2×0.75 mm² | 5 m | 30.18 | 151 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h0-75/) |
 | KGTP‑HL 3×2.5 mm² | 4 m | 109.66 | 439 | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h2-5/) |
@@ -85,7 +85,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Distribution block 250A (12 terminals) | 2 | 788 | 1,576 | [Ozon](https://www.ozon.ru/product/blok-raspredelitelnyy-kbr-rbd-250-250a-12-prisoedineniy-dekron-4045680559/) |
+| Distribution block 250A (12 terminals) | 2 | 788 | 1 576 | [Ozon](https://www.ozon.ru/product/blok-raspredelitelnyy-kbr-rbd-250-250a-12-prisoedineniy-dekron-4045680559/) |
 | WAGO 221‑415 (5‑terminal) | 6 | 44 | 264 | [Ozon](https://www.ozon.ru/product/klemma-wago-221-415-5-provodnaya-dlya-soedineniya-provodov-10-sht-2008848825/) |
 | WAGO 221‑413 (3‑terminal) | 2 | 39 | 78 | [Ozon](https://www.ozon.ru/product/klemma-wago-221-413-3-h-provodnaya-dlya-soedineniya-provodov-vago-10-sht-2008848822/) |
 | QS8P‑S (Anti‑Spark) | 1 pair | 682 | 682 | [Ozon](https://www.ozon.ru/product/razem-dlya-modifikatsii-akkumulyatora-elektromobilya-qs8p-l-vysokotochnyy-razem-dlya-zashchity-3302358304/) |
@@ -102,8 +102,8 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| DC circuit breaker 200A | 1 | 2,297 | 2,297 | [AliExpress](https://aliexpress.ru/item/1005005566503592.html) |
-| ATO fuse holder (10 slots) | 1 | 602 | 602 | [AliExpress](https://aliexpress.ru/item/1005005781273635.html) |
+| DC circuit breaker 200A | 1 | 2,400 | 2 297 | [AliExpress](https://aliexpress.ru/item/1005005566503592.html?sku_id=12000033576447224) |
+| ATO fuse holder (10 slots) | 1 | 640 | 602 | [AliExpress](https://aliexpress.ru/item/1005005781273635.html?sku_id=12000034332563565) |
 | ATO fuse 40A | 7 | 1.2 (lot of 30) | 36 (lot) | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-40a-4633025301/) |
 | ATO fuse 25A | 2 | 2.63 (lot of 30) | 79 (lot) | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-25a-4633034058/) |
 | ATO fuse 10A | 1 | 1.96 (lot of 30) | 59 (lot) | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-10a-4633021334/) |
@@ -115,7 +115,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Aluminium capacitor 50V 4700 µF | 6 | 53.5 | 321 | [AliExpress](https://aliexpress.ru/item/1005005776158492.html) (lot of 2) |
+| Aluminium capacitor 50V 4700 µF | 6 | 53.5 | 321 | [AliExpress](https://aliexpress.ru/item/1005005776158492.html?sku_id=12000034312209897) (lot of 2) |
 | Aluminium capacitor 25V 1000 µF | 10 | 21.9 | 219 | [AliExpress](https://aliexpress.ru/item/1005002047657907.html) (lot of 10) |
 | Ceramic capacitor 50V 0.1 µF (104) | 100 | 1.01 | 101 | [AliExpress](https://aliexpress.ru/item/4000368078609.html) (lot of 100) |
 | Resistor kit VKTECH 300pcs | 1 | 320 | 320 | [AliExpress](https://aliexpress.ru/item/1005009483805314.html) |
@@ -126,7 +126,7 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| Flexible LED P1.53 320×160mm (209×104) | 1 | 5,327 | 5,327 | [AliExpress](https://aliexpress.ru/item/1005008740646437.html) |
+| Flexible LED P1.53 320×160mm (209×104) | 1 | 5,500 | 5 500 | [AliExpress](https://aliexpress.ru/item/1005008740646437.html) |
 
 ---
 
@@ -134,10 +134,10 @@ All prices are in Russian Rubles (RUB) as of March 2026, including delivery cost
 
 | Component | Qty | Unit Price (RUB) | Total (RUB) | Link |
 | :--- | :---: | :---: | :---: | :--- |
-| PETG (Hexalit, 5 kg × 2) | 10 kg | 600/kg | 6,000 | [Ozon](https://www.ozon.ru/product/petg-chernyy-plastik-dlya-3d-pechati-geksalit-1-75mm-5-motkov-filamenta-po-1-kg-2425802879/) |
-| TPU A95 (Elegoo) | 2 kg | 1,169/kg | 2,338 | [AliExpress](https://aliexpress.ru/item/1005007342881359.html) |
-| PA12‑CF | 2 kg | ~3,000/kg | 6,000 | *(generic)* |
-| 2‑part platinum silicone | 10 kg | ~1,000/kg | 10,000 | *(generic)* |
+| PETG (Hexalit, 5 kg × 2) | 10 kg | 600/kg | 6 000 | [Ozon](https://www.ozon.ru/product/petg-chernyy-plastik-dlya-3d-pechati-geksalit-1-75mm-5-motkov-filamenta-po-1-kg-2425802879/) |
+| TPU A95 (Elegoo) | 2 kg | 1,160/kg | 2 320 | [AliExpress](https://aliexpress.ru/item/1005007342881359.html) |
+| PA12‑CF | 2 kg | ~3,000/kg | 6 000 | *(generic)* |
+| 2‑part platinum silicone | 10 kg | ~1,000/kg | 10 000 | *(generic)* |
 
 ---
 
@@ -262,18 +262,18 @@ Materials:
 
 | Category | Total (RUB) |
 | :--- | :---: |
-| **Motors** | 78 513 |
-| **Drivers** | 27 683 |
-| **Sensors** | 22 915 |
-| **Compute & Logic** | 90 030 |
-| **Battery & Power Regulation** | 26 671 |
+| **Motors** | 74 580 |
+| **Drivers** | 26 315 |
+| **Sensors** | 22 233 |
+| **Compute & Logic** | 90 029 |
+| **Battery & Power Regulation** | 26 900 |
 | **Cables** | 5 331 |
 | **Connectors & Distribution** | 4 878 |
 | **Fuses** | 3 562 |
 | **Capacitors & Filtering** | 961 |
-| **Display** | 5 327 |
-| **Filaments & Materials** | 24 338 |
+| **Display** | 5 500 |
+| **Filaments & Materials** | 24 320 |
 | **Fasteners & Hardware** | 980 |
-| **TOTAL** | **~291 189 RUB** |
+| **TOTAL** | **~285 589 RUB** |
 
 *Prices are approximate and may vary depending on exchange rates and seller availability.*

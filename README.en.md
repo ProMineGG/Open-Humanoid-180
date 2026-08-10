@@ -110,7 +110,7 @@ All DC‑DC converters (1500W, 600W, 300W) are **over‑specified** and run **pa
 
 ---
 
-## Project Status (March 2026)
+## Project Status (August 2026)
 
 - [x] Full component selection and cost estimation (see `/docs/BOM.en.md`).
 - [x] Preliminary power distribution and wiring scheme.
