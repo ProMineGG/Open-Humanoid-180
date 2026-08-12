@@ -7,137 +7,138 @@
 
 ## Моторы и приводы
 
-| Компонент       | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка                                                                                                                           |
-| :-------------- | :----: | :------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------- |
-| BLDC 6384 120KV |   6    |     4,000      |  24 000   | [Ozon](https://www.ozon.ru/product/elektricheskiy-balansirovochnyy-samokat-skeytbord-6384-120kv-bez-datchika-3607953100/)        |
-| BLDC 5065 140KV |   17   |     2,700      |  45 900   | [Ozon](https://www.ozon.ru/product/diy-n5065-140kv-bldc-besshchetochnyy-dvigatel-dlya-elektroskutera-bezdatchikovyy-1986965132/) |
-| BLDC 3205 110KV |   13   |      360       |   4 680   | [AliExpress](https://aliexpress.ru/item/1005010807047447.html)                                                                   |
+| Компонент       | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :-------------- | :----: | :------------: | :-------: | :----- |
+| BLDC 6384 120KV |   6    |     4 000      |  24 000   | [Ozon](https://www.ozon.ru/product/elektricheskiy-balansirovochnyy-samokat-skeytbord-6384-120kv-bez-datchika-3607953100/) |
+| BLDC 5065 140KV |   7    |     2 700      |  18 900   | [Ozon](https://www.ozon.ru/product/diy-n5065-140kv-bldc-besshchetochnyy-dvigatel-dlya-elektroskutera-bezdatchikovyy-1986965132/) |
+| BLDC 5010 360KV |   10   |     1 000      |  10 000   | [Ozon](https://www.ozon.ru/product/besshchetochnye-dvigateli-5010-360-kv-s-vysokim-krutyashchim-momentom-dlya-razlichnyh-4198584996/) |
+| BLDC 3205 110KV |   13   |      360       |   4 680   | [AliExpress](https://aliexpress.ru/item/1005010807047447.html) |
 
 ---
 
 ## Драйверы моторов
 
-| Компонент                    | Кол‑во |      Цена за шт (₽)       | Итого (₽) | Ссылка                                                                                                                                                    |
-| :--------------------------- | :----: | :-----------------------: | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ODrive3.6 (клон)             |   3    |           3,400           |  10 200   | [Ozon](https://www.ozon.ru/product/foc-bldc-dual-motor-controller-xdrive-xdrive3-6-apgreyd-kit-56v-dlya-servo-vysokotochnyy-na-5046874017/?sh=3ZH9LtEthA) |
-| Плата гироскутера (2 канала) |   9    |           1,500           |  13 500   | [Avito](https://www.avito.ru/ekaterinburg/sport_i_otdyh/platy_upravleniya_giroskutera_42v_8164713218) (б/у)                                               |
-| SimpleFOCMini (MS8313)       |   13   | 185 (255 за 1шт отдельно) |   2 615   | [AliExpress](https://aliexpress.ru/item/1005008486050546.html) (лот 10 шт и лот 1 шт)                                                                     |
+| Компонент                    | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :--------------------------- | :----: | :------------: | :-------: | :----- |
+| ODrive 3.6 (клон)            |   3    |     3 400      |  10 200   | [Ozon](https://www.ozon.ru/product/foc-bldc-dual-motor-controller-xdrive-xdrive3-6-apgreyd-kit-56v-dlya-servo-vysokotochnyy-na-5046874017/) |
+| Плата гироскутера (2 канала) |   9    |     1 500      |  13 500   | [Avito](https://www.avito.ru/ekaterinburg/sport_i_otdyh/platy_upravleniya_giroskutera_42v_8164713218) (б/у) |
+| SimpleFOCMini (MS8313)       |   13   | 185 (255 за 1 шт) | 2 615   | [AliExpress](https://aliexpress.ru/item/1005008486050546.html) (лот 10 шт + 1 шт) |
 
 ---
 
 ## Датчики
 
-| Компонент                    | Кол‑во |      Цена за шт (₽)      | Итого (₽) | Ссылка                                                                                                                                                                                                                                                                                                                                                                     |
-| :--------------------------- | :----: | :----------------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Магнитный энкодер MT6826S    |   36   |           280            |  10 080   | [AliExpress](https://aliexpress.ru/item/1005008498235469.html?spm=a2g2w.detail.rcmdprod.0.63435e37w7MYzz&mixer_rcmd_bucket_id=554803d5f8f77e2a&pdp_trigger_item_id=0_1005009483619436&ru_algo_pv_id=b47156-61b690-8124fb-7f5ddb-1786356000&scenario=aerSimilarItemPdpRcmd&shpMethod=CAINIAO_ECONOMY&sku_id=12000048410718740&traffic_source=recommendation&type_rcmd=core) |
-| 9‑осевой IMU BMI160          |   11   | 85 (100 за 1шт отдельно) |    950    | [Ozon](https://www.ozon.ru/product/10-komplektov-bmi160-gy-bmi160-6dof-6-osevoy-modul-datchika-akselerometra-1726319765/) (лот 10 шт) + [Ozon](https://www.ozon.ru/product/modul-6-osey-giroskop-akselerometr-16-bit-2000-s-16g-nizkoe-potreblenie-vstraivaemyy-3230574508/) (1 шт)                                                                                        |
-| Магнитометр QMC5883L         |   11   |           165            |   1 815   | [Ozon](https://www.ozon.ru/product/gy-271-qmc5883l-3v-5v-trehosnyy-kompas-magnitnogo-polya-s-tremya-osyami-modul-datchika-magnitometra-2070498807/)                                                                                                                                                                                                                        |
-| Датчик давления FSR402       |   10   |           180            |   1 800   | [AliExpress](https://aliexpress.ru/item/4001062799587.html)                                                                                                                                                                                                                                                                                                                |
-| Тензодатчик 100 кг XNQJALYCY |   4    |           230            |    920    | [AliExpress](https://aliexpress.ru/item/1005006769729312.html) (лот 4 шт)                                                                                                                                                                                                                                                                                                  |
-| АЦП HX711                    |   4    |    42 (лот 10 шт: 420)   |    168    | [AliExpress](https://aliexpress.ru/item/1005009105560158.html) (лот 10 шт)                                                                                                                                                                                                                                                                                                 |
-| Dual HD USB‑камера (OV4689)  |   1    |          6,500           |   6 500   | [AliExpress](https://aliexpress.ru/item/1005010126423504.html)                                                                                                                                                                                                                                                                                                             |
+| Компонент                    | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :--------------------------- | :----: | :------------: | :-------: | :----- |
+| Магнитный энкодер MT6826S    |   36   |      280       |  10 080   | [AliExpress](https://aliexpress.ru/item/1005008498235469.html) |
+| 6‑осевой IMU BMI160          |   11   | 85 (100 за 1 шт) |   950    | [Ozon](https://www.ozon.ru/product/10-komplektov-bmi160-gy-bmi160-6dof-6-osevoy-modul-datchika-akselerometra-1726319765/) (лот 10 шт) + [Ozon](https://www.ozon.ru/product/modul-6-osey-giroskop-akselerometr-16-bit-2000-s-16g-nizkoe-potreblenie-vstraivaemyy-3230574508/) (1 шт) |
+| Магнитометр QMC5883L         |   11   |      165       |   1 815   | [Ozon](https://www.ozon.ru/product/gy-271-qmc5883l-3v-5v-trehosnyy-kompas-magnitnogo-polya-s-tremya-osyami-modul-datchika-magnitometra-2070498807/) |
+| Датчик давления FSR402       |   10   |      180       |   1 800   | [AliExpress](https://aliexpress.ru/item/4001062799587.html) |
+| Тензодатчик 100 кг XNQJALYCY |   4    |      230       |    920    | [AliExpress](https://aliexpress.ru/item/1005006769729312.html) (лот 4 шт) |
+| АЦП HX711                    |   4    | 42 (лот 10 шт: 420) |   168    | [AliExpress](https://aliexpress.ru/item/1005009105560158.html) (лот 10 шт) |
+| Dual HD USB‑камера (OV4689)  |   1    |     6 500      |   6 500   | [AliExpress](https://aliexpress.ru/item/1005010126423504.html) |
 
 ---
 
 ## Мозги и логика
 
-| Компонент                                            | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка                                                                                          |
-| :--------------------------------------------------- | :----: | :------------: | :-------: | :---------------------------------------------------------------------------------------------- |
-| Ноутбук Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB (б/у) |   1    |     86,000     |  86 000   | [Avito](https://www.avito.ru/moskva/noutbuki/noutbuk_lenovo_l7_r9_rtx_3080_32gb_1tb_8203230225) |
-| ESP32‑S3 N16R8                                       |   1    |      410       |    410    | [AliExpress](https://aliexpress.ru/item/1005009303526431.html?sku_id=12000048677992046)         |
-| Плата расширения GPIO для ESP32‑S3                   |   1    |      355       |    355    | [AliExpress](https://aliexpress.ru/item/1005009799215827.html)                                  |
-| AT32F403ACGU7                                        |   7    |      340       |   2 380   | [AliExpress](https://aliexpress.ru/item/1005004842376803.html)                                  |
-| CAN‑трансивер TJA1042T                               |   10   |      83,4      |    834    | [AliExpress](https://aliexpress.ru/item/1005009993488276.html) (лот 5 шт)                       |
-| Аналоговый мультиплексор CD74HC4067                  |   1    |       50       |     50    | [AliExpress](https://aliexpress.ru/item/1005005507548696.html)                                  |
+| Компонент                                            | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :--------------------------------------------------- | :----: | :------------: | :-------: | :----- |
+| Ноутбук Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB (б/у) |   1    |    86 000      |  86 000   | [Avito](https://www.avito.ru/moskva/noutbuki/noutbuk_lenovo_l7_r9_rtx_3080_32gb_1tb_8203230225) |
+| ESP32‑S3 N16R8                                       |   1    |      410       |    410    | [AliExpress](https://aliexpress.ru/item/1005009303526431.html) |
+| Плата расширения GPIO для ESP32‑S3                   |   1    |      355       |    355    | [AliExpress](https://aliexpress.ru/item/1005009799215827.html) |
+| AT32F403ACGU7                                        |   7    |      340       |   2 380   | [AliExpress](https://aliexpress.ru/item/1005004842376803.html) |
+| CAN‑трансивер TJA1042T                               |   10   |      83,4      |    834    | [AliExpress](https://aliexpress.ru/item/1005009993488276.html) (лот 5 шт) |
+| Аналоговый мультиплексор CD74HC4067                  |   2    |       50       |    100    | [AliExpress](https://aliexpress.ru/item/1005005507548696.html) |
 
 ---
 
 ## Батарея и питание
 
-| Компонент                        | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка                                                                                                                     |
-| :------------------------------- | :----: | :------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------- |
-| Li-NMC SK 3,7v 80,5ah            |   7    |     3,000      |  21 000   | [Avito](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/litiy-ionnye_yacheyki_li-nmc_sk_37v_805ah_8259027903) |
-| JK‑B2A8S20P Smart BMS (8S, 200A) |   1    |     3,500      |   3 500   | [AliExpress](https://aliexpress.ru/item/1005011756434924.html)                                                             |
-| Понижайка 1500W (28.8→19.5В)     |   1    |     1,500      |   1 500   | [AliExpress](https://aliexpress.ru/item/1005009348542795.html)                                                             |
-| Понижайка 600W (28.8→5В)         |   1    |      500       |    500    | [Ozon](https://www.ozon.ru/product/dc-dc-ponizhayushchiy-preobrazovatel-600-vt-stabilizator-2635865398/)                   |
-| Понижайка 300W (28.8→5В)         |   1    |      400       |    400    | [AliExpress](https://aliexpress.ru/item/1005008929234790.html)                                                             |
+| Компонент                        | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :------------------------------- | :----: | :------------: | :-------: | :----- |
+| Li‑NMC SK 3,7 В 80,5 А·ч        |   7    |     3 000      |  21 000   | [Avito](https://www.avito.ru/sankt-peterburg/orgtehnika_i_rashodniki/litiy-ionnye_yacheyki_li-nmc_sk_37v_805ah_8259027903) |
+| JK‑B2A8S20P Smart BMS (8S, 200 А)|   1    |     3 500      |   3 500   | [AliExpress](https://aliexpress.ru/item/1005011756434924.html) |
+| Понижайка 1500 Вт (28,8→19,5 В) |   1    |     1 500      |   1 500   | [AliExpress](https://aliexpress.ru/item/1005009348542795.html) |
+| Понижайка 600 Вт (28,8→5 В)     |   1    |      500       |    500    | [Ozon](https://www.ozon.ru/product/dc-dc-ponizhayushchiy-preobrazovatel-600-vt-stabilizator-2635865398/) |
+| Понижайка 300 Вт (28,8→5 В)     |   1    |      400       |    400    | [AliExpress](https://aliexpress.ru/item/1005008929234790.html) |
 
 ---
 
 ## Провода и кабели
 
-| Компонент               | Кол‑во | Цена за м (₽) | Итого (₽) | Ссылка                                                                  |
-| :---------------------- | :----: | :-----------: | :-------: | :---------------------------------------------------------------------- |
-| ПуГВнг-LS 1×25 мм²      |  3 м   |    296,35     |  889,05   | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/)         |
-| КГТП‑ХЛ 2×4 мм²         |  10 м  |    121.66     |   1 217   | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/)            |
-| КГТП‑ХЛ 2×1.5 мм²       |  10 м  |     49.73     |    497    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h1-5/)          |
-| КГТП‑ХЛ 2×0.75 мм²      |  5 м   |     30.18     |    151    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h0-75/)         |
-| КГТП‑ХЛ 3×2.5 мм²       |  4 м   |    109.66     |    439    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h2-5/)          |
-| КГТП‑ХЛ 3×1.5 мм²       |  10 м  |     69.04     |    690    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h1-5/)          |
-| КГТП‑ХЛ 3×0.75 мм²      |  5 м   |     46.11     |    231    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-3h0-75/)         |
-| МКЭШнг(А)‑LS 5×0.35 мм² |  15 м  |     60.24     |    904    | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-5h0-35/) |
-| МКЭШнг(А)‑LS 2×0.35 мм² |  5 м   |     34.18     |    171    | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-2h0-35/) |
-| МГШВ 0.35 мм²           |  20 м  |     7.12      |    142    | [Cable‑ES](https://cable-es.ru/catalog/mgshv/mgshv-0-35/)               |
+| Компонент               | Кол‑во | Цена за м (₽) | Итого (₽) | Ссылка |
+| :---------------------- | :----: | :-----------: | :-------: | :----- |
+| ПуГВнг‑LS 1×25 мм²      |  3 м   |    296,35     |   889,05  | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/) |
+| КГТП‑ХЛ 2×4 мм²         | 10 м   |    121,66     |  1 217    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/) |
+| КГТП‑ХЛ 2×1,5 мм²       | 10 м   |     49,73     |   497     | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h1-5/) |
+| МКЭШнг(А)‑LS 7×0,35 мм² | 20 м   |     76,42     |  1 528,40 | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-7h0-35/) |
+| МКЭШнг(А)‑LS 5×0,35 мм² | 15 м   |     60,24     |   904     | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-5h0-35/) |
+| МКЭШнг(А)‑LS 2×0,35 мм² |  5 м   |     34,18     |   171     | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-2h0-35/) |
+| МГШВ 0,35 мм²           | 20 м   |      7,12     |   142     | [Cable‑ES](https://cable-es.ru/catalog/mgshv/mgshv-0-35/) |
+| 14 AWG                  | 50 м   |      75       |  3 750    | [Ozon](https://www.ozon.ru/product/silikonovyy-elektricheskiy-provod-awg-14-2-08mm-1-1-metr-chernyy-krasnyy-769143306/) |
+| 20 AWG                  | 50 м   |      30       |  1 500    | [Ozon](https://www.ozon.ru/product/nabor-silikonovyh-provodov-20-awg-5-tsvetov-2255352255/) |
+| 26 AWG                  | 50 м   |      16       |   800     | [Ozon](https://www.ozon.ru/product/nabor-provodov-dlya-payki-2375724297/) |
 
 ---
 
 ## Разъёмы, клеммы, распределители
 
-| Компонент                                |   Кол‑во   | Цена за шт (₽) | Итого (₽) | Ссылка                                                                                                                                                                       |
-| :--------------------------------------- | :--------: | :------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Блок распределительный 250А (12 выводов) |     2      |      788       |   1 576   | [Ozon](https://www.ozon.ru/product/blok-raspredelitelnyy-kbr-rbd-250-250a-12-prisoedineniy-dekron-4045680559/) |
-| WAGO 221‑415 (5 контактов)               |     6      |       44       |    264    | [Ozon](https://www.ozon.ru/product/klemma-wago-221-415-5-provodnaya-dlya-soedineniya-provodov-10-sht-2008848825/)                                                            |
-| WAGO 221‑413 (3 контакта)                |     2      |       39       |     78    | [Ozon](https://www.ozon.ru/product/klemma-wago-221-413-3-h-provodnaya-dlya-soedineniya-provodov-vago-10-sht-2008848822/)                                                     |
-| QS8P‑S (Anti‑Spark)                      |   1 пара   |      682       |    682    | [Ozon](https://www.ozon.ru/product/razem-dlya-modifikatsii-akkumulyatora-elektromobilya-qs8p-l-vysokotochnyy-razem-dlya-zashchity-3302358304/)                               |
-| XT90 (лот 5 пар)                         |   6 пар    |     118.4      |    710    | [Ozon](https://www.ozon.ru/product/konnektor-silovoy-xt90-m-f-razem-papa-mama-5-par-amass-1410065195/)                                                                       |
-| XT60 (лот 5 пар)                         |   12 пар   |      30.6      |    367    | [AliExpress](https://aliexpress.ru/item/33061763696.html)                                                                                                                    |
-| XT30 (лот 5 пар)                         |   5 пар    |      30.2      |    151    | [AliExpress](https://aliexpress.ru/item/33061763696.html)                                                                                                                    |
-| XT60h (лот 5 пар)                        |     —      |      61.8      |     —     | [AliExpress](https://aliexpress.ru/item/1005007299555986.html) *(опционально)*                                                                                               |
-| GX12 (5‑pin)                             |   5 пар    |      ~150      |    750    | *(generic)*                                                                                                                                                                  |
-| JST‑XH 2.54 мм                           | 1 комплект |      ~300      |    300    | *(generic)*                                                                                                                                                                  |
+| Компонент                                | Кол‑во  | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :--------------------------------------- | :-----: | :------------: | :-------: | :----- |
+| Блок распределительный 250 А (12 выводов)|   2     |      788       |  1 576    | [Ozon](https://www.ozon.ru/product/blok-raspredelitelnyy-kbr-rbd-250-250a-12-prisoedineniy-dekron-4045680559/) |
+| WAGO 221‑415 (5 контактов)               |   6     |       44       |   264     | [Ozon](https://www.ozon.ru/product/klemma-wago-221-415-5-provodnaya-dlya-soedineniya-provodov-10-sht-2008848825/) |
+| WAGO 221‑413 (3 контакта)                |   2     |       39       |    78     | [Ozon](https://www.ozon.ru/product/klemma-wago-221-413-3-h-provodnaya-dlya-soedineniya-provodov-vago-10-sht-2008848822/) |
+| QS8P‑S (Anti‑Spark)                      | 1 пара  |      682       |   682     | [Ozon](https://www.ozon.ru/product/razem-dlya-modifikatsii-akkumulyatora-elektromobilya-qs8p-l-vysokotochnyy-razem-dlya-zashchity-3302358304/) |
+| XT90 (лот 5 пар)                         | 6 пар   |      118,4     |   710     | [Ozon](https://www.ozon.ru/product/konnektor-silovoy-xt90-m-f-razem-papa-mama-5-par-amass-1410065195/) |
+| XT60 (лот 5 пар)                         | 12 пар  |      30,6      |   367     | [AliExpress](https://aliexpress.ru/item/33061763696.html) |
+| XT30 (лот 5 пар)                         | 5 пар   |      30,2      |   151     | [AliExpress](https://aliexpress.ru/item/33061763696.html) |
+| XT60h (лот 5 пар, опционально)           | —       |      61,8      |    —      | [AliExpress](https://aliexpress.ru/item/1005007299555986.html) |
+| GX12 (5‑pin)                             | 5 пар   |      ~150      |   750     | *(generic)* |
+| JST‑XH 2,54 мм                           | 1 компл.|      ~300      |   300     | *(generic)* |
 
 ---
 
 ## Предохранители и защита
 
-| Компонент                                       | Кол‑во |  Цена за шт (₽)  | Итого (₽) | Ссылка                                                                                    |
-| :---------------------------------------------- | :----: | :--------------: | :-------: | :---------------------------------------------------------------------------------------- |
-| Автомат DC 200А                                 |   1    |      2,400       |   2 297   | [AliExpress](https://aliexpress.ru/item/1005005566503592.html?sku_id=12000033576447224)   |
-| Хаб предохранителей (10 гнёзд)                  |   1    |       640        |    602    | [AliExpress](https://aliexpress.ru/item/1005005781273635.html?sku_id=12000034332563565)   |
-| Предохранитель ATO 40А                          |   7    | 1,2 (лот 30 шт)  | 36 (лот)  | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-40a-4633025301/) |
-| Предохранитель ATO 25А                          |   2    | 2,63 (лот 30 шт) | 79 (лот)  | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-25a-4633034058/) |
-| Предохранитель ATO 10А                          |   1    | 1,96 (лот 30 шт) | 59 (лот)  | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-10a-4633021334/) |
-| Одиночный держатель + предохр. 80А (для ODrive) |   3    |       163        |    489    | [AliExpress](https://aliexpress.ru/item/1005005850402237.html)                            |
+| Компонент                                       | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :---------------------------------------------- | :----: | :------------: | :-------: | :----- |
+| Автомат DC 200 А                                |   1    |     2 400      |  2 297    | [AliExpress](https://aliexpress.ru/item/1005005566503592.html) |
+| Хаб предохранителей (10 гнёзд)                  |   1    |      640       |   602     | [AliExpress](https://aliexpress.ru/item/1005005781273635.html) |
+| Предохранитель ATO 40 А                         |   7    | 1,2 (лот 30 шт)| 36 (лот)  | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-40a-4633025301/) |
+| Предохранитель ATO 25 А                         |   2    | 2,63 (лот 30 шт)| 79 (лот)  | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-25a-4633034058/) |
+| Предохранитель ATO 10 А                         |   1    | 1,96 (лот 30 шт)| 59 (лот)  | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-10a-4633021334/) |
+| Одиночный держатель + предохр. 80 А (для ODrive)|   3    |      163       |   489     | [AliExpress](https://aliexpress.ru/item/1005005850402237.html) |
 
 ---
 
 ## Конденсаторы и фильтрация
 
-| Компонент                                  | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка                                                                                             |
-| :----------------------------------------- | :----: | :------------: | :-------: | :------------------------------------------------------------------------------------------------- |
-| Алюминиевый конденсатор 50V 4700 мкФ       |   6    |      53.5      |    321    | [AliExpress](https://aliexpress.ru/item/1005005776158492.html?sku_id=12000034312209897) (лот 2 шт) |
-| Алюминиевый конденсатор 25V 1000 мкФ       |   10   |      21.9      |    219    | [AliExpress](https://aliexpress.ru/item/1005002047657907.html) (лот 10 шт)                         |
-| Керамический конденсатор 50V 0.1 мкФ (104) |  100   |      1.01      |    101    | [AliExpress](https://aliexpress.ru/item/4000368078609.html) (лот 100 шт)                           |
-| Набор резисторов VKTECH 300 шт             |   1    |      320       |    320    | [AliExpress](https://aliexpress.ru/item/1005009483805314.html)                                     |
+| Компонент                                  | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :----------------------------------------- | :----: | :------------: | :-------: | :----- |
+| Алюминиевый конденсатор 50 В 4 700 мкФ    |   6    |      53,5      |   321     | [AliExpress](https://aliexpress.ru/item/1005005776158492.html) (лот 2 шт) |
+| Алюминиевый конденсатор 25 В 1 000 мкФ    |   10   |      21,9      |   219     | [AliExpress](https://aliexpress.ru/item/1005002047657907.html) (лот 10 шт) |
+| Керамический конденсатор 50 В 0,1 мкФ (104)|  100   |      1,01      |   101     | [AliExpress](https://aliexpress.ru/item/4000368078609.html) (лот 100 шт) |
+| Набор резисторов VKTECH 300 шт             |   1    |      320       |   320     | [AliExpress](https://aliexpress.ru/item/1005009483805314.html) |
 
 ---
 
 ## Экран и визуализация
 
-| Компонент                             | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка                                                         |
-| :------------------------------------ | :----: | :------------: | :-------: | :------------------------------------------------------------- |
-| Гибкий LED P1.53 320×160 мм (209×104) |   1    |     5,500      |   5 500   | [AliExpress](https://aliexpress.ru/item/1005008740646437.html) |
+| Компонент                             | Кол‑во | Цена за шт (₽) | Итого (₽) | Ссылка |
+| :------------------------------------ | :----: | :------------: | :-------: | :----- |
+| Гибкий LED P1.53 320×160 мм (209×104) |   1    |     5 500      |  5 500    | [AliExpress](https://aliexpress.ru/item/1005008740646437.html) |
 
 ---
 
 ## Пластик и материалы
 
-| Компонент                                           | Кол‑во | Цена за ед. (₽) | Итого (₽) | Ссылка                                                                                                                          |
-| :-------------------------------------------------- | :----: | :-------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------ |
-| PETG (Гексалит, 5 кг × 2)                           | 10 кг  |     600/кг      |   6 000   | [Ozon](https://www.ozon.ru/product/petg-chernyy-plastik-dlya-3d-pechati-geksalit-1-75mm-5-motkov-filamenta-po-1-kg-2425802879/) |
-| TPU A95 (Elegoo)                                    |  2 кг  |    1,160/кг     |   2 320   | [AliExpress](https://aliexpress.ru/item/1005007342881359.html)                                                                  |
-| PA12‑CF                                             |  2 кг  |    ~3,000/кг    |   6 000   | *(generic)*                                                                                                                     |
-| Двухкомпонентный силикон на платиновом катализаторе | 10 кг  |    ~1,000/кг    |  10 000   | *(generic)*                                                                                                                     |
+| Компонент                                           | Кол‑во | Цена за ед. (₽) | Итого (₽) | Ссылка |
+| :-------------------------------------------------- | :----: | :-------------: | :-------: | :----- |
+| PETG (Гексалит, 5 кг × 2)                           | 10 кг  |     600/кг      |  6 000    | [Ozon](https://www.ozon.ru/product/petg-chernyy-plastik-dlya-3d-pechati-geksalit-1-75mm-5-motkov-filamenta-po-1-kg-2425802879/) |
+| TPU A95 (Elegoo)                                    |  2 кг  |    1 160/кг     |  2 320    | [AliExpress](https://aliexpress.ru/item/1005007342881359.html) |
+| PA12‑CF                                             |  2 кг  |   ~3 000/кг     |  6 000    | *(generic)* |
+| Двухкомпонентный силикон на платиновом катализаторе | 10 кг  |   ~1 000/кг     | 10 000    | *(generic)* |
 
 ---
 
@@ -150,7 +151,7 @@
 | Клеммы кольцевые изолированные М6 | 9 | 90 |
 | Гайки фланцевые М6 с насечкой | 16 | 80 |
 | Термоусадка 12 мм | 1 м | 100 |
-| Клеммы автомобильные «мама» 6.3 мм | 10 | 50 |
+| Клеммы автомобильные «мама» 6,3 мм | 10 | 50 |
 | Гильзы НШВИ (набор) | 1 | 300 |
 | Кабельные стяжки (пачка) | 1 | 200 |
 | **Итого** | | **~980** |
@@ -161,119 +162,120 @@
 
 ```
 Моторы:
-1. BLDC 6384 120KV - 6 шт
-2. BLDC 5065 140KV - 17 шт
-3. BLDC 3205 110KV - 13 шт
+1. BLDC 6384 120KV – 6 шт
+2. BLDC 5065 140KV – 7 шт
+3. BLDC 5010 360KV – 10 шт
+4. BLDC 3205 110KV – 13 шт
 
 Драйверы:
-1. ODrive3.6 - 3 шт
-2. Платы гироскутеров - 9 шт
-3. SimpleFOCMini - 13 шт
+1. ODrive 3.6 – 3 шт
+2. Платы гироскутеров – 9 шт
+3. SimpleFOCMini – 13 шт
 
 Датчики:
-1. MT6826S - 36 шт
-2. BMI160 - 11 шт
-3. QMC5883L - 11 шт
-4. FSR402 - 10 шт
-5. XNQJALYCY 100 кг - 4 шт
-6. Dual HD USB Camera - 1 шт
+1. MT6826S – 36 шт
+2. BMI160 – 11 шт
+3. QMC5883L – 11 шт
+4. FSR402 – 10 шт
+5. XNQJALYCY 100 кг – 4 шт
+6. Dual HD USB Camera – 1 шт
 
 Обвязка:
-1. CD74HC4067 - 1 шт
-2. HX711 - 4 шт
-3. Плата расширения GPIO ESP32 - 1 шт
-4. TJA1042T - 10 шт
+1. CD74HC4067 – 2 шт
+2. HX711 – 4 шт
+3. Плата расширения GPIO ESP32 – 1 шт
+4. TJA1042T – 10 шт
 
 Нижний уровень мозгов:
-1. AT32F403ACGU7 - 7 шт
-2. ESP32‑S3 N16R8 - 1 шт
+1. AT32F403ACGU7 – 7 шт
+2. ESP32‑S3 N16R8 – 1 шт
 
 Верхний уровень мозгов:
-1. Ноутбук Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB - 1 шт
+1. Ноутбук Lenovo L7 / R9 / RTX 3080 / 32GB / 1TB – 1 шт
 
 Визуал:
-1. Гибкий LED P1.53 320×160 мм - 1 шт
+1. Гибкий LED P1.53 320×160 мм – 1 шт
 
 Батарея:
-1. Li-NMC SK 3,7v 80,5ah - 7 шт
-2. JK‑B2A8S20P BMS - 1 шт
+1. Li‑NMC SK 3,7 В 80,5 А·ч – 7 шт
+2. JK‑B2A8S20P BMS – 1 шт
 
 Понижайки:
-1. 1500W - 1 шт
-2. 600W - 1 шт
-3. 300W - 1 шт
+1. 1 500 Вт – 1 шт
+2. 600 Вт – 1 шт
+3. 300 Вт – 1 шт
 
 Кабели:
-1. ПуГВнг-LS 1×25 - 3 м
-2. КГТП‑ХЛ 2×4 - 10 м
-3. КГТП‑ХЛ 2×1.5 - 10 м
-4. КГТП‑ХЛ 2×0.75 - 5 м
-5. КГТП‑ХЛ 3×2.5 - 4 м
-6. КГТП‑ХЛ 3×1.5 - 10 м
-7. КГТП‑ХЛ 3×0.75 - 5 м
-8. МКЭШнг(А)‑LS 5×0.35 - 15 м
-9. МКЭШнг(А)‑LS 2×0.35 - 5 м
-10. МГШВ 0.35 - 20 м
+1. ПуГВнг‑LS 1×25 мм² – 3 м
+2. КГТП‑ХЛ 2×4 мм² – 10 м
+3. КГТП‑ХЛ 2×1,5 мм² – 10 м
+4. МКЭШнг(А)‑LS 7×0,35 – 20 м
+5. МКЭШнг(А)‑LS 5×0,35 – 15 м
+6. МКЭШнг(А)‑LS 2×0,35 – 5 м
+7. МГШВ 0,35 – 20 м
+8. 14 AWG – 50 м
+9. 20 AWG – 50 м
+10. 26 AWG – 50 м
 
 Конденсаторы и фильтрация:
-1. 50V 4700 мкФ - 6 шт
-2. 25V 1000 мкФ - 10 шт
-3. 50V 0.1 мкФ - 100 шт
-4. Резисторы - 1 набор
+1. 50 В 4 700 мкФ – 6 шт
+2. 25 В 1 000 мкФ – 10 шт
+3. 50 В 0,1 мкФ – 100 шт
+4. Резисторы – 1 набор
 
 Штекеры/разъёмы/распределители:
-1. Блок распределительный 250А - 2 шт
-2. WAGO 5 контактов - 6 шт
-3. WAGO 3 контакта - 2 шт
-4. QS8P‑S - 1 пара
-5. XT90 - 6 пар
-6. XT60 - 12 пар
-7. XT30 - 5 пар
-8. GX12 - 5 пар
-9. JST‑XH 2.54 мм - 1 комплект
+1. Блок распределительный 250 А – 2 шт
+2. WAGO 5 контактов – 6 шт
+3. WAGO 3 контакта – 2 шт
+4. QS8P‑S – 1 пара
+5. XT90 – 6 пар
+6. XT60 – 12 пар
+7. XT30 – 5 пар
+8. GX12 – 5 пар
+9. JST‑XH 2,54 мм – 1 комплект
 
 Предохранители:
-1. Автомат 200А - 1 шт
-2. Хаб на 10 гнёзд - 1 шт
-3. 40А ATO - 7 шт (лот 30 шт)
-4. 25А ATO - 2 шт (лот 30 шт)
-5. 10А ATO - 1 шт (лот 30 шт)
-6. Одиночные держатели с предохр. 80А - 3 шт
+1. Автомат 200 А – 1 шт
+2. Хаб на 10 гнёзд – 1 шт
+3. 40 А ATO – 7 шт (лот 30 шт)
+4. 25 А ATO – 2 шт (лот 30 шт)
+5. 10 А ATO – 1 шт (лот 30 шт)
+6. Одиночные держатели с предохр. 80 А – 3 шт
 
 Крепёж:
-1. ТМЛ 10‑6 - 8 шт
-2. Клеммы кольцевые М6 - 9 шт
-3. Гайки фланцевые М6 - 16 шт
-4. Термоусадка 12 мм - 1 м
-5. Клеммы «мама» 6.3 мм - 10 шт
-6. Гильзы НШВИ - 1 набор
-7. Кабельные стяжки - 1 пачка
+1. ТМЛ 10‑6 – 8 шт
+2. Клеммы кольцевые М6 – 9 шт
+3. Гайки фланцевые М6 – 16 шт
+4. Термоусадка 12 мм – 1 м
+5. Клеммы «мама» 6,3 мм – 10 шт
+6. Гильзы НШВИ – 1 набор
+7. Кабельные стяжки – 1 пачка
 
 Материалы:
-1. PETG - 10 кг
-2. TPU A95 - 2 кг
-3. Силикон на платиновом катализаторе - 10 кг
-4. PA12‑CF - 2 кг
+1. PETG – 10 кг
+2. TPU A95 – 2 кг
+3. Силикон на платиновом катализаторе – 10 кг
+4. PA12‑CF – 2 кг
 ```
 
 ---
 
 ## Итоговая стоимость
 
-| Категория | Итого (₽) |
-| :--- | :---: |
-| **Моторы** | 74 580 |
-| **Драйверы** | 26 315 |
-| **Датчики** | 22 233 |
-| **Мозги и логика** | 90 029 |
-| **Батарея и питание** | 26 900 |
-| **Кабели** | 5 331 |
-| **Разъёмы и распределители** | 4 878 |
-| **Предохранители** | 3 562 |
-| **Конденсаторы и фильтрация** | 961 |
-| **Экран** | 5 500 |
-| **Пластик и материалы** | 24 320 |
-| **Крепёж** | 980 |
-| **ИТОГО** | **~285 589 ₽** |
+| Категория                     | Итого (₽) |
+| :---------------------------- | :-------: |
+| **Моторы**                    |  57 580   |
+| **Драйверы**                  |  26 315   |
+| **Датчики**                   |  22 233   |
+| **Мозги и логика**            |  90 079   |
+| **Батарея и питание**         |  26 900   |
+| **Кабели**                    |  11 398   |
+| **Разъёмы и распределители**  |   4 878   |
+| **Предохранители**            |   3 562   |
+| **Конденсаторы и фильтрация** |    961    |
+| **Экран**                     |   5 500   |
+| **Пластик и материалы**       |  24 320   |
+| **Крепёж**                    |    980    |
+| **ИТОГО**                     | **274 706 ₽** |
 
 *Цены являются приблизительными и могут меняться в зависимости от курса валют и наличия у продавцов.*
