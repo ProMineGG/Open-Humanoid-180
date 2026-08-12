@@ -54,10 +54,10 @@
 | 5065 140KV (medium) | 17 | Hip rotation (2), waist (1), shoulders (6), elbows (4), wrists (4) |
 | 3205 110KV (basic) | 13 | Neck (3) + fingers (10) |
 
-## Actuator Control
-- **High-power and medium motors** are driven by AT32F403‑based FOC controllers with MT6826S encoders.
-- **Basic motors** use SimpleFOCMini boards (GD32F303) with MT6701 encoders.
-- **Central processing:** ESP32‑S3 as gateway + laptop with RTX 3080 for high‑level computation.
+### Actuator Control
+- **High‑power and medium motors** are driven by **ODrive 3.6** controllers or **hoverboard mainboards** (running *hoverboard‑firmware‑hack‑FOC*) – both with **MT6826S** absolute encoders.
+- **Basic motors** use **SimpleFOCMini** boards (based on AT32F403ACGU7, with MS8313 driver) – also equipped with MT6826S encoders.
+- **Central processing:** ESP32‑S3 acts as a gateway, while a laptop with an RTX 3080 handles high‑level computation.
 
 ## Power
 - 7S Li‑NMC battery (25.9–29.4 V), BMS rated at 200A.
