@@ -1,5 +1,7 @@
 # Contributing to Open-Humanoid-180
 
+*Read this in other languages: [Русский](CONTRIBUTING.md)*
+
 Thank you for your interest in the project! Any help is welcome.
 
 ## How to help

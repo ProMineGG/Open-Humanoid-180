@@ -67,18 +67,18 @@
 
 ## Провода и кабели
 
-| Компонент               | Кол‑во | Цена за м (₽) | Итого (₽) | Ссылка |
-| :---------------------- | :----: | :-----------: | :-------: | :----- |
-| ПуГВнг‑LS 1×25 мм²      |  3 м   |    296,35     |   889,05  | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/) |
-| КГТП‑ХЛ 2×4 мм²         | 10 м   |    121,66     |  1 217    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/) |
-| КГТП‑ХЛ 2×1,5 мм²       | 10 м   |     49,73     |   497     | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h1-5/) |
-| МКЭШнг(А)‑LS 7×0,35 мм² | 20 м   |     76,42     |  1 528,40 | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-7h0-35/) |
-| МКЭШнг(А)‑LS 5×0,35 мм² | 15 м   |     60,24     |   904     | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-5h0-35/) |
-| МКЭШнг(А)‑LS 2×0,35 мм² |  5 м   |     34,18     |   171     | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-2h0-35/) |
-| МГШВ 0,35 мм²           | 20 м   |      7,12     |   142     | [Cable‑ES](https://cable-es.ru/catalog/mgshv/mgshv-0-35/) |
-| 14 AWG                  | 50 м   |      75       |  3 750    | [Ozon](https://www.ozon.ru/product/silikonovyy-elektricheskiy-provod-awg-14-2-08mm-1-1-metr-chernyy-krasnyy-769143306/) |
-| 20 AWG                  | 50 м   |      30       |  1 500    | [Ozon](https://www.ozon.ru/product/nabor-silikonovyh-provodov-20-awg-5-tsvetov-2255352255/) |
-| 26 AWG                  | 50 м   |      16       |   800     | [Ozon](https://www.ozon.ru/product/nabor-provodov-dlya-payki-2375724297/) |
+| Компонент               | Кол‑во | Цена за м (₽) | Итого (₽) | Ссылка                                                                                                                  |
+| :---------------------- | :----: | :-----------: | :-------: | :---------------------------------------------------------------------------------------------------------------------- |
+| ПуГВнг‑LS 1×25 мм²      |  3 м   |    296,35     |  889,05   | [Cable‑ES](https://cable-es.ru/catalog/pugvng-ls/pugvng-ls-25/)                                                         |
+| КГТП‑ХЛ 2×4 мм²         |  10 м  |    121,66     |   1 217   | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h4/)                                                            |
+| КГТП‑ХЛ 2×1,5 мм²       |  10 м  |     49,73     |    497    | [Cable‑ES](https://cable-es.ru/catalog/kgtp-hl/kgtp-hl-2h1-5/)                                                          |
+| МКЭШнг(А)‑LS 7×0,35 мм² |  20 м  |     76,42     | 1 528,40  | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-7h0-35/)                                                 |
+| МКЭШнг(А)‑LS 5×0,35 мм² |  15 м  |     60,24     |    904    | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-5h0-35/)                                                 |
+| МКЭШнг(А)‑LS 2×0,35 мм² |  5 м   |     34,18     |    171    | [Cable‑ES](https://cable-es.ru/catalog/mkeshng-ls/mkeshng-a-ls-2h0-35/)                                                 |
+| МГШВ 0,35 мм²           |  20 м  |     7,12      |    142    | [Cable‑ES](https://cable-es.ru/catalog/mgshv/mgshv-0-35/)                                                               |
+| 14 AWG                  |  50 м  |      75       |   3 750   | [Ozon](https://www.ozon.ru/product/silikonovyy-elektricheskiy-provod-awg-14-2-08mm-1-1-metr-chernyy-krasnyy-769143306/) |
+| 20 AWG                  |  50 м  |      30       |   1 500   | [Ozon](https://www.ozon.ru/product/nabor-silikonovyh-provodov-20-awg-5-tsvetov-2255352255/)                             |
+| 26 AWG                  |  50 м  |      16       |    800    | [Ozon](https://www.ozon.ru/product/nabor-provodov-dlya-payki-2375724297/)                                               |
 
 ---
 
