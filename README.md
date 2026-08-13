@@ -5,6 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ProMineGG/Open-Humanoid-180)](https://github.com/ProMineGG/Open-Humanoid-180/commits)
 
 [Дорожная карта проекта](https://github.com/ProMineGG/Open-Humanoid-180/issues/1)
+[Contributing](CONTRIBUTING.md)
 
 *Читать на других языках: [English](README.en.md)*
 
