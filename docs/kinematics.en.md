@@ -11,9 +11,9 @@
   - Basic: 5010 360KV – 10 units
   - Low‑power: 3205 110KV – 13 units
 - **Gearboxes:** Harmonic (or cycloidal) drives with reduction ratios:
-  - 1:100 – for high‑power motors
-  - 1:65 – for medium motors and basic motors in the hip
-  - 1:40 – for low‑power motors and basic motors in shoulders, elbows and wrists
+  - 1:100(1:10+1:10) – for high‑power motors
+  - 1:64(1:8+1:8) – for medium motors and basic motors in the hip
+  - 1:42(1:7+1:6) – for low‑power motors and basic motors in shoulders, elbows and wrists
 
 ---
 
@@ -79,5 +79,5 @@
 ---
 
 ## Power Supply
-- **Battery:** 7S Li‑NMC (25.9–29.4 V), with a 200 A BMS.
+- **Battery:** 10S Li‑NMC, with a 200 A BMS.
 - **Power distribution:** via DC‑DC converters and protective circuit breakers.
