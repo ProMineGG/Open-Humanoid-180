@@ -104,7 +104,7 @@ All motor phase wiring running through moving joint pivots utilizes high‑stran
 | **6384 120KV (6 pcs)** <br>Heavy‑duty leg joints | Silicone **14 AWG** (2.08 mm²) | ~25 m | Twisted into 3‑phase tight braids; routed via a loose U‑shaped loop along the exterior curve of the hinge joints. |
 | **5065 140KV (7 pcs)** <br>Pelvis & hip actuators | Silicone **14 AWG** (2.08 mm²) | ~25 m | Harmonized with 6384 gauge. Guarantees ampacity margin under continuous FOC hold loads supporting the upper body. |
 | **5010 330KV (10 pcs)** <br>Mid‑tier arm actuators | Silicone **20 AWG** (0.52 mm²) | 50 m | Phases assembled into 3‑color matching braids. Rated up to 11A continuous. |
-| **2805 110KV (13 pcs)** <br>Finger servos & neck | Silicone **26 AWG** (0.13 mm²) | 50 m | Ultra‑thin phase strands. Minimizes wire cluster bulk inside the palms to feed 5 active fingers cleanly. |
+| **3205 110KV (13 pcs)** <br>Finger servos & neck | Silicone **26 AWG** (0.13 mm²) | 50 m | Ultra‑thin phase strands. Minimizes wire cluster bulk inside the palms to feed 5 active fingers cleanly. |
 
 ---
 
@@ -161,7 +161,7 @@ All motor phase wiring running through moving joint pivots utilizes high‑stran
 | MGSHV 0.35                         |      20 m       |    Cable‑ES     | BMS cell balancing leads and tight point‑to‑point electronic enclosure wiring            |
 | Silicone 14 AWG (2.08 mm²)         |      50 m       |  Ozon (Kit)     | High‑flex phase wires for high‑torque leg/pelvis BLDC motors (6384 and 5065)             |
 | Silicone 20 AWG (0.52 mm²)         |      50 m       |  Ozon (Kit)     | High‑flex phase wires for arm BLDC actuators (10 units of 5010)                          |
-| Silicone 26 AWG (0.13 mm²)         |      50 m       |  Ozon (Kit)     | Ultra‑flex phase wires for micro finger BLDC actuators and neck servos (13 units of 2805) |
+| Silicone 26 AWG (0.13 mm²)         |      50 m       |  Ozon (Kit)     | Ultra‑flex phase wires for micro finger BLDC actuators and neck servos (13 units of 3205) |
 | Silicone 30 AWG (0.05 mm²)         |      50 m       |  Ozon (Kit)     | CAN, balance leads, logic                                                               |
 
 ---

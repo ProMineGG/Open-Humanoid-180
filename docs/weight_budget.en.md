@@ -15,7 +15,7 @@ All weights are based on manufacturer data sheets, actual component measurements
 | BLDC 6384 120KV (Heavy-duty, legs) | 6 | 0.650 | 3.90 | High-power belt/girdle zone (knees/thighs) |
 | BLDC 5065 140KV (Medium-heavy, pelvis/torso) | 7 | 0.350 | 2.45 | High-torque actuators for large articulation joints |
 | BLDC 5010 330KV (Base, arms/elbows) | 10 | 0.080 | 0.80 | Lightweight "pancake" form-factor with good torque density |
-| BLDC 2805 110KV (Low-power, fingers/neck) | 13 | 0.035 | 0.455 | Miniature actuators for fine mechanics and joints |
+| BLDC 3205 110KV (Low-power, fingers/neck) | 13 | 0.035 | 0.455 | Miniature actuators for fine mechanics and joints |
 | **Motors Total** | | | **7.605** |  |
 
 ---
@@ -26,7 +26,7 @@ All weights are based on manufacturer data sheets, actual component measurements
 | :--- | :---: | :---: | :---: | :--- |
 | ODrive3.6 (Clone, legs) | 3 | 0.060 | 0.18 | Drives the 6384 motors (2 channels per board) |
 | Hoverboard Driver Board (2 channels) | 9 | 0.100 | 0.90 | Drives the 5065 and 5010 motor groups |
-| SimpleFOCMini (MS8313) | 13 | 0.010 | 0.13 | Tiny driver boards for the fingers and neck (2805) |
+| SimpleFOCMini (MS8313) | 13 | 0.010 | 0.13 | Tiny driver boards for the fingers and neck (3205) |
 | **Drivers Total** | | | **1.21** |  |
 
 ---
@@ -85,7 +85,7 @@ All weights are based on manufacturer data sheets, actual component measurements
 | MGSHV 0.35 mm² Wire | 20 m | 0.006 | 0.120 | BMS cell balancing cables + localized tight enclosure wiring |
 | Silicone 14 AWG (2.08 mm²) High-Flex | 50 m | 0.032 | 1.600 | Phase wiring for high-torque leg/hip BLDC motors (6384 & 5065) |
 | Silicone 20 AWG (0.52 mm²) High-Flex | 50 m | 0.011 | 0.550 | Phase wiring for mid-tier arm BLDC actuators (10× 5010) |
-| Silicone 26 AWG (0.13 mm²) High-Flex | 50 m | 0.004 | 0.200 | Ultra-fine phase wiring for finger BLDC servos and neck (13× 2805) |
+| Silicone 26 AWG (0.13 mm²) High-Flex | 50 m | 0.004 | 0.200 | Ultra-fine phase wiring for finger BLDC servos and neck (13× 3205) |
 | **Cables Total** | | | **7.84** |  |
 
 ---
@@ -175,7 +175,7 @@ _Mass calculation of joints incorporating steel intermediate rolling elements (r
 |High-Torque Pivot (Legs/Knees) for 6384|6|1:100|0.500|3.00|Massive load rollers, maximized shell thickness|
 |Mid-Torque Pivot (Pelvis/Shoulders) for 5065|7|1:65|0.300|2.10|Moderate shell profile, compact tracker|
 |Standard Pivot (Elbows/Arms) for 5010|10|1:65 / 1:40|0.200|2.00|Specialized compact and slim profile housing lines|
-|Miniature Pivot (Fingers/Neck) for 2805|13|1:40|0.080|1.04|Ultra-miniature custom wave-gear rolling sets|
+|Miniature Pivot (Fingers/Neck) for 3205|13|1:40|0.080|1.04|Ultra-miniature custom wave-gear rolling sets|
 |Reducers Total||||8.14||
 
 ---
@@ -205,4 +205,4 @@ _Mass calculation of joints incorporating steel intermediate rolling elements (r
 
 - The Cable Mass Trap: Keep in mind that the cumulative weight of the cable tracks (7.84 kg) has officially surpassed the combined net weight of all 36 electric motors on the robot (7.605 kg). This is the unforgiving reality of scaling 1:1 humanoid electronics. Large silicone jackets and braided copper shielding inside the MKESH runs pack massive weight densities; slice away every redundant centimeter during CAD wire routing.
 - Pelvic Center of Mass Offset: Given that the upper cavity is heavily saturated with the naked RTX 3080 board, the hefty 2P circuit breaker, distribution bars, and massive core torso gears, the true center of mass is heavily biased upward. The 6.3 kg pouch battery assembly must be mathematically mapped and locked inside a rigid, symmetrical matrix down the thigh structures to act as a counterweight if torso space proves entirely inadequate.
-- Structural Mass Trimming Optimization: If the physical top-level assembly calculation breaks beyond the 52 kg threshold inside the CAD envelope, your main lever for shaving dead weight will be the separator housings of the arm gears (5010) and fingers (2805). Shifting those specific blocks from cast aluminum to high-grade carbon-fiber reinforced nylon (PA12-CF) 3D-prints will instantly shave roughly 1.5–2 kg of dead weight off the upper shoulder and hand assemblies.
+- Structural Mass Trimming Optimization: If the physical top-level assembly calculation breaks beyond the 52 kg threshold inside the CAD envelope, your main lever for shaving dead weight will be the separator housings of the arm gears (5010) and fingers (3205). Shifting those specific blocks from cast aluminum to high-grade carbon-fiber reinforced nylon (PA12-CF) 3D-prints will instantly shave roughly 1.5–2 kg of dead weight off the upper shoulder and hand assemblies.
