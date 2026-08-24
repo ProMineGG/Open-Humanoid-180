@@ -6,14 +6,14 @@
 
 ## Motors & Actuators
 
-| Component                  | Qty | Unit Price (RUB) | Total (RUB) | Link |
-|----------------------------|-----|------------------|-------------|------|
-| BLDC 6384 120KV            | 6   | 4 000            | 24 000      | [Ozon](https://www.ozon.ru/product/elektricheskiy-balansirovochnyy-samokat-skeytbord-6384-120kv-bez-datchika-3607953100/) |
-| BLDC 5065 140KV            | 7   | 2 700            | 18 900      | [Ozon](https://www.ozon.ru/product/diy-n5065-140kv-bldc-besshchetochnyy-dvigatel-dlya-elektroskutera-bezdatchikovyy-1986965132/) |
-| BLDC 5010 360KV            | 10  | 1 000            | 10 000      | [Ozon](https://www.ozon.ru/product/besshchetochnye-dvigateli-5010-360-kv-s-vysokim-krutyashchim-momentom-dlya-razlichnyh-4198584996/) |
-| BLDC 3205 110KV            | 13  | 360              | 4 680       | [AliExpress](https://aliexpress.ru/item/1005010807047447.html) |
-| Needle roller 4×6 mm G3    | 300 | 3.5              | 1 050       | [Rusmet](https://www.tdrusmet.ru/roliki/4x6mm-g3-rolik?sort=p.price&order=ASC&limit=100) |
-| Needle roller 8×8 mm G3    | 300 | 5.8              | 1 740       | [Rusmet](https://www.tdrusmet.ru/8x8mm-g3-rolik) |
+| Component               | Qty | Unit Price (RUB) | Total (RUB) | Link                                                                                                                                  |
+| ----------------------- | --- | ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| BLDC 6384 120KV         | 6   | 4 000            | 24 000      | [Ozon](https://www.ozon.ru/product/elektricheskiy-balansirovochnyy-samokat-skeytbord-6384-120kv-bez-datchika-3607953100/)             |
+| BLDC 5065 140KV         | 7   | 2 700            | 18 900      | [Ozon](https://www.ozon.ru/product/diy-n5065-140kv-bldc-besshchetochnyy-dvigatel-dlya-elektroskutera-bezdatchikovyy-1986965132/)      |
+| BLDC 5010 360KV         | 10  | 1 000            | 10 000      | [Ozon](https://www.ozon.ru/product/besshchetochnye-dvigateli-5010-360-kv-s-vysokim-krutyashchim-momentom-dlya-razlichnyh-4198584996/) |
+| BLDC 3205 110KV         | 13  | 360              | 4 680       | [AliExpress](https://aliexpress.ru/item/1005010807047447.html)                                                                        |
+| Needle roller 4×6 mm G3 | 300 | 3.5              | 1 050       | [Rusmet](https://www.tdrusmet.ru/roliki/4x6mm-g3-rolik?sort=p.price&order=ASC&limit=100)                                              |
+| Needle roller 8×8 mm G3 | 300 | 5.8              | 1 740       | [Rusmet](https://www.tdrusmet.ru/8x8mm-g3-rolik)                                                                                      |
 
 ---
 
@@ -103,15 +103,15 @@
 
 ## Fuses & Protection
 
-| Component                                     | Qty | Unit Price (RUB) | Total (RUB) | Link |
-|-----------------------------------------------|-----|------------------|-------------|------|
-| DC circuit breaker 200 A                      | 1   | 2 400            | 2 400       | [AliExpress](https://aliexpress.ru/item/1005005566503592.html) |
-| Fuse holder hub (10 slots)                    | 1   | 640              | 640         | [AliExpress](https://aliexpress.ru/item/1005005781273635.html) |
-| ATO fuse 40 A                                 | 7   | 1.2 (lot of 30)  | 36 (lot)    | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-40a-4633025301/) |
-| ATO fuse 25 A                                 | 2   | 2.63 (lot of 30) | 79 (lot)    | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-25a-4633034058/) |
-| ATO fuse 10 A                                 | 1   | 1.96 (lot of 30) | 59 (lot)    | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-10a-4633021334/) |
-| Single holder + 80 A fuse (for ODrive)        | 3   | 163              | 489         | [AliExpress](https://aliexpress.ru/item/1005005850402237.html) |
-| Ideal diode module 80V 50A                    | 1   | 600              | 600         | [Ozon](https://www.ozon.ru/product/modul-idealnogo-dioda-s-vysokim-tokom-80v-50a-s-klemmoy-4840017570/?sh=HZL6ZeYCXw) |
+| Component                              | Qty | Unit Price (RUB) | Total (RUB) | Link                                                                                                                  |
+| -------------------------------------- | --- | ---------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| DC circuit breaker 200 A               | 1   | 2 400            | 2 400       | [AliExpress](https://aliexpress.ru/item/1005005566503592.html)                                                        |
+| Fuse holder hub (10 slots)             | 1   | 640              | 640         | [AliExpress](https://aliexpress.ru/item/1005005781273635.html)                                                        |
+| ATO fuse 40 A                          | 7   | 1.2 (lot of 30)  | 36 (lot)    | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-40a-4633025301/)                             |
+| ATO fuse 25 A                          | 2   | 2.63 (lot of 30) | 79 (lot)    | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-25a-4633034058/)                             |
+| ATO fuse 10 A                          | 1   | 1.96 (lot of 30) | 59 (lot)    | [Ozon](https://www.ozon.ru/product/predohranitel-avtomobilnyy-30-sht-art-10a-4633021334/)                             |
+| Single holder + 80 A fuse (for ODrive) | 3   | 163              | 489         | [AliExpress](https://aliexpress.ru/item/1005005850402237.html)                                                        |
+| Ideal diode module 80V 50A             | 1   | 600              | 600         | [Ozon](https://www.ozon.ru/product/modul-idealnogo-dioda-s-vysokim-tokom-80v-50a-s-klemmoy-4840017570/?sh=HZL6ZeYCXw) |
 
 ---
 
@@ -185,6 +185,8 @@ Motors:
 2. BLDC 5065 140KV – 7 pcs
 3. BLDC 5010 360KV – 10 pcs
 4. BLDC 3205 110KV – 13 pcs
+5. Needle roller 4×6 mm G3 - 300 pcs
+6. Needle roller 8×8 mm G3 - 300 pcs
 
 Drivers:
 1. ODrive 3.6 – 3 pcs
@@ -263,6 +265,7 @@ Fuses:
 4. 25 A ATO – 2 pcs (lot of 30)
 5. 10 A ATO – 1 pc (lot of 30)
 6. Single holder + 80 A fuse – 3 pcs
+7. Ideal diode module 80V 50A - 1 pc
 
 Fasteners:
 1. Unaccounted – ? pcs
@@ -288,21 +291,21 @@ Materials:
 
 ## Final Cost Summary
 
-| Category                     | Total (RUB) |
-|------------------------------|-------------|
-| **Motors**                   | 57 580      |
-| **Drivers**                  | 26 315      |
-| **Sensors**                  | 22 180      |
-| **Brains & Logic**           | 92 745      |
-| **Battery & Power**          | 40 000      |
-| **Cables**                   | 11 095      |
-| **Connectors & Distributors**| 4 878       |
-| **Fuses & Protection**       | 3 703       |
-| **Capacitors & Filtering**   | 2 497       |
-| **Display**                  | 5 500       |
-| **Plastics & Materials**     | 36 570      |
-| **Fasteners**                | 5 980       |
-| **Additional Expenses**      | 20 000      |
-| **TOTAL**                    | **329 043 RUB** |
+| Category                      | Total (RUB)     |
+| ----------------------------- | --------------- |
+| **Motors**                    | 60 370          |
+| **Drivers**                   | 26 315          |
+| **Sensors**                   | 22 180          |
+| **Brains & Logic**            | 92 745          |
+| **Battery & Power**           | 40 000          |
+| **Cables**                    | 11 095          |
+| **Connectors & Distributors** | 4 878           |
+| **Fuses & Protection**        | 4 303           |
+| **Capacitors & Filtering**    | 2 397           |
+| **Display**                   | 5 500           |
+| **Plastics & Materials**      | 36 570          |
+| **Fasteners**                 | 5 980           |
+| **Additional Expenses**       | 20 000          |
+| **TOTAL**                     | **332 333 RUB** |
 
 *All prices are approximate and may vary depending on exchange rates and seller availability.*

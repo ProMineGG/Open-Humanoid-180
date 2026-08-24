@@ -2,7 +2,7 @@
 
 ## General Specifications
 - **Height:** 180 cm
-- **Weight:** ~55 kg
+- **Weight:** ~60 kg
 - **Total Degrees of Freedom (DoF):** 36
 - **Actuators:** 36 (one BLDC motor per DoF)
 - **Motor types:**
